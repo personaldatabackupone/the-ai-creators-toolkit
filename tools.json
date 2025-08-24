@@ -1,0 +1,100 @@
+{
+  "categories": [
+    {
+      "id": "voice",
+      "title": "AI Voiceovers & Cloning",
+      "description": "Transform text into captivating, human-like speech and clone your own voice.",
+      "tools": [
+        {
+          "name": "ElevenLabs",
+          "description": "The gold standard for realistic AI voices with a generous free tier for high-quality audio generation in numerous languages.",
+          "link": "https://elevenlabs.io/"
+        },
+        {
+          "name": "Kukarella",
+          "description": "A comprehensive audio suite with text-to-speech, dialogue tools, transcription, and voice cloning credits on its free plan.",
+          "link": "https://www.kukarella.com/"
+        },
+        {
+          "name": "Play.ht",
+          "description": "A powerhouse of versatility with over 800 lifelike voices in more than 140 languages, perfect for any project.",
+          "link": "https://play.ht/"
+        },
+        {
+          "name": "OpenVoice",
+          "description": "An open-source tool for true voice cloning, offering granular control over styles and accent from a short audio sample.",
+          "link": "https://github.com/myshell-ai/OpenVoice"
+        },
+        {
+          "name": "Murf AI",
+          "description": "Tailored for professional content, providing polished AI voices perfect for presentations, e-learning, and corporate videos.",
+          "link": "https://murf.ai/"
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "title": "AI Music & Sound Effects",
+      "description": "Instantly generate royalty-free music and custom sound effects to elevate your projects.",
+      "tools": [
+        {
+          "name": "Suno",
+          "description": "A game-changer that creates full songs—complete with vocals and instruments—from a simple text prompt.",
+          "link": "https://www.suno.ai/"
+        },
+        {
+          "name": "Beatoven.ai",
+          "description": "A creator's dream for sourcing royalty-free background music, allowing you to specify mood, genre, and emotional shifts.",
+          "link": "https://www.beatoven.ai/"
+        },
+        {
+          "name": "SOUNDRAW",
+          "description": "Generates professional-quality, copyright-free beats and melodies, trained on in-house music.",
+          "link": "https://soundraw.io/"
+        },
+        {
+          "name": "ElevenLabs SFX",
+          "description": "A powerful tool for creating high-quality, custom, and royalty-free sound effects from simple text prompts.",
+          "link": "https://elevenlabs.io/sound-effects"
+        },
+        {
+          "name": "MyEdit",
+          "description": "An incredibly user-friendly online tool to instantly generate any sound effect you can describe in text.",
+          "link": "https://myedit.online/audio-editor/sound-effects-generator"
+        }
+      ]
+    },
+    {
+      "id": "video",
+      "title": "AI Video & Avatars",
+      "description": "Streamline your video production workflow with AI-powered editing and digital presenters.",
+      "tools": [
+        {
+          "name": "Clipchamp",
+          "description": "Microsoft's free editor with powerful AI features like auto-captions and text-to-speech without a watermark.",
+          "link": "https://clipchamp.com/"
+        },
+        {
+          "name": "Descript",
+          "description": "A revolutionary tool that allows you to edit video by simply editing the transcribed text—a game-changer for dialogue-heavy content.",
+          "link": "https://www.descript.com/"
+        },
+        {
+          "name": "HeyGen",
+          "description": "A leader in AI avatar generation, making it incredibly simple to create professional-looking videos with a digital presenter.",
+          "link": "https://www.heygen.com/"
+        },
+        {
+          "name": "Runway ML",
+          "description": "A creative playground and a comprehensive suite of AI tools for text-to-video generation and advanced editing features.",
+          "link": "https://runwayml.com/"
+        },
+        {
+          "name": "Veed.io",
+          "description": "A fast and efficient online editor perfect for social media, packed with tools for auto-captioning and AI avatar creation.",
+          "link": "https://www.veed.io/"
+        }
+      ]
+    }
+  ]
+}
